@@ -1,0 +1,6 @@
+#Adding some project for ignoring
+.idea
+JavaProgram.iml
+out
+*/.idea
+.idea
